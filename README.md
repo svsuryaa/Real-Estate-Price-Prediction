@@ -1,1 +1,1 @@
-# Real-Estate-Price-Prediction
+# RealEstateAnalysis
