@@ -1,1 +1,1 @@
-# RealEstateAnalysis
+In this project ,with the machine learning, we've analysed, preprocessed, cleaned and predicted the price for different housing in Bengaluru city based on different features such as bhk, location, square feet etc. The project includes an interactive webpage built using streamlit. 
